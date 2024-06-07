@@ -22,6 +22,6 @@ spec.require_paths = ['lib']
   spec.add_development_dependency 'rake', '>= 12.3.3'
   spec.add_development_dependency 'rspec'
 
-  spec.add_dependency 'rjb', '~> 1.5.2'
+  spec.add_dependency 'rjb', '~> 1.7.3'
 
 end
